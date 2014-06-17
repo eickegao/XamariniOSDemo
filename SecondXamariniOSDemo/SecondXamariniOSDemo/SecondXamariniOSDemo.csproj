@@ -103,6 +103,10 @@
     <Compile Include="SecondXamariniOSDemoViewController.designer.cs">
       <DependentUpon>SecondXamariniOSDemoViewController.cs</DependentUpon>
     </Compile>
+    <Compile Include="SubViewController.cs" />
+    <Compile Include="SubViewController.designer.cs">
+      <DependentUpon>SubViewController.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="MainStoryboard.storyboard" />

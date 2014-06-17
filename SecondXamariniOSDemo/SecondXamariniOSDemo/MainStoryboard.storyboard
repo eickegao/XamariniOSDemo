@@ -30,7 +30,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-811" y="-28"/>
+            <point key="canvasLocation" x="-904" y="-29"/>
         </scene>
         <scene sceneID="1">
             <objects>
@@ -48,7 +48,7 @@
         </scene>
         <scene sceneID="37">
             <objects>
-                <viewController id="38" sceneMemberID="viewController">
+                <viewController id="38" sceneMemberID="viewController" customClass="SubViewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="40"/>
                         <viewControllerLayoutGuide type="bottom" id="41"/>
@@ -61,7 +61,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="42" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-327" y="-33"/>
+            <point key="canvasLocation" x="-477" y="-27"/>
         </scene>
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
