@@ -4,7 +4,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
     <ProjectTypeGuids>{6BC8ED88-2882-458C-8E55-DFD12B67127B};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <ProjectGuid>{A5D6F441-5A06-4F8A-B361-3ED940DB4C60}</ProjectGuid>
+    <ProjectGuid>{E27A987A-7AC6-41C2-9E67-A7AC96317B97}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>SecondXamariniOSDemo</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>

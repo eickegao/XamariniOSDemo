@@ -11,15 +11,8 @@ using System.CodeDom.Compiler;
 
 namespace SecondXamariniOSDemo
 {
-	[Register ("SecondXamariniOSDemoViewController")]
-	partial class SecondXamariniOSDemoViewController
+	[Register ("UISecondXamariniOSDemoViewController")]
+	partial class UISecondXamariniOSDemoViewController
 	{
-		[Action ("UIButton52_TouchUpInside:")]
-		[GeneratedCode ("iOS Designer", "1.0")]
-		partial void UIButton52_TouchUpInside (UIButton sender);
-
-		void ReleaseDesignerOutlets ()
-		{
-		}
 	}
 }
